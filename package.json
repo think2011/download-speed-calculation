@@ -1,0 +1,23 @@
+{
+  "name": "dev-template",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "coffee-script": "~1.8.0",
+    "gulp": "^3.8.10",
+    "gulp-clean": "^0.3.1",
+    "gulp-coffee": "^2.2.0",
+    "gulp-sourcemaps": "^1.2.4",
+    "gulp-watch": "^1.1.0",
+    "gulp-webserver": "~0.8.3",
+    "run-sequence": "^1.0.1",
+    "gulp-plumber": "~0.6.6",
+    "gulp-static-hash": "0.0.4"
+  }
+}
